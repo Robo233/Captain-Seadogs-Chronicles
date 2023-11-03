@@ -1,0 +1,11 @@
+Model Information:
+* title:	pirate hat
+* source:	https://sketchfab.com/3d-models/pirate-hat-01e8f223bc49401a85db1a3666f30678
+* author:	neutralize (https://sketchfab.com/cariaga.info)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "pirate hat" (https://sketchfab.com/3d-models/pirate-hat-01e8f223bc49401a85db1a3666f30678) by neutralize (https://sketchfab.com/cariaga.info) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
