@@ -5,3 +5,4 @@ An RPG-style pirate game for Windows.
 ![](Screenshots/3.jpg)
 ![](Screenshots/4.jpg)
 ![](Screenshots/5.jpg)
+![](Screenshots/6.jpg)
